@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.ArraysLists", "BilgeAdam.ArraysLists\BilgeAdam.ArraysLists.csproj", "{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.CarPark", "BilgeAdam.CarPark\BilgeAdam.CarPark.csproj", "{D6771566-173A-499A-A302-29CB80A3F74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6771566-173A-499A-A302-29CB80A3F74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6771566-173A-499A-A302-29CB80A3F74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6771566-173A-499A-A302-29CB80A3F74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6771566-173A-499A-A302-29CB80A3F74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14364219-B2DB-4D30-91BD-B62D1DA32C44}
+	EndGlobalSection
+EndGlobal
