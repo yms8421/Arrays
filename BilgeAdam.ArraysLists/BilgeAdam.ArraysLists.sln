@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.ArraysLists", "BilgeAdam.ArraysLists\BilgeAdam.ArraysLists.csproj", "{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilgeAdam.ArraysLists", "BilgeAdam.ArraysLists\BilgeAdam.ArraysLists.csproj", "{601A96FB-B7B2-46E7-AD8C-7A0B62BEAD44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.CarPark", "BilgeAdam.CarPark\BilgeAdam.CarPark.csproj", "{D6771566-173A-499A-A302-29CB80A3F74B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilgeAdam.CarPark", "BilgeAdam.CarPark\BilgeAdam.CarPark.csproj", "{D6771566-173A-499A-A302-29CB80A3F74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.SortNumbers", "BilgeAdam.SortNumbers\BilgeAdam.SortNumbers.csproj", "{6743D529-F4D7-45EF-AD4F-DD03175F213F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D6771566-173A-499A-A302-29CB80A3F74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6771566-173A-499A-A302-29CB80A3F74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6771566-173A-499A-A302-29CB80A3F74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6743D529-F4D7-45EF-AD4F-DD03175F213F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6743D529-F4D7-45EF-AD4F-DD03175F213F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6743D529-F4D7-45EF-AD4F-DD03175F213F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6743D529-F4D7-45EF-AD4F-DD03175F213F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

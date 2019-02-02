@@ -20,6 +20,7 @@ namespace BilgeAdam.ArraysLists
             for (int i = 0; i < numbers.Length; i++)
             {
                 Console.Write("{0} ", numbers[i]);
+                Console.Write(numbers[i] + " ");
             }
             Console.WriteLine();
             Console.WriteLine("Toplam......: {0}", summary);
